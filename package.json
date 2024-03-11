@@ -1,0 +1,22 @@
+{
+  "name": "mini-react-hook-collection",
+  "version": "0.0.4",
+  "description": "A collection of essential React hooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "dayjs": "^1.11.10",
+    "yargs": "^17.7.2"
+  },
+  "author": "Bogdan Vetrovich",
+  "license": "ISC"
+}
